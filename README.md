@@ -8,6 +8,8 @@ This project contains:
 - API Testing
 - Login automation
 - Functional testing
+- Sign Up Functionality
+- Forgot Password Functionality
 
 Technologies Used:
 - Python
